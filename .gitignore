@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+exoplanet_data/ExoMinerPP_TESS_vetting_catalog.csv
+exoplanet_data/exominerplusplus_catalog_labeled_tces_s1-s67_tess-spoc-2min_complete_1-14-2025_1039.csv
